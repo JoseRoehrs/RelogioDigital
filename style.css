@@ -1,0 +1,48 @@
+*{
+    font-family: 'Tahoma', Segoe UI, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.relogio{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    width: 550px;
+    background: transparent;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+}
+
+.relogio div{
+    width: 170px;
+    height: 150px;
+    background: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
+}
+
+.relogio span{
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.relogio span.tempo{
+    font-size: 10px;
+}
