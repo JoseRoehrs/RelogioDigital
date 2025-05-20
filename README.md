@@ -1,25 +1,25 @@
-# Relógio Digital
+# Digital Clock
 
-Este é um projeto simples de **Relógio Digital** feito com HTML, CSS e JavaScript. O objetivo é exibir a hora atual em tempo real (horas, minutos e segundos) com um visual moderno e responsivo.
+This is a simple **Digital Clock** project built with HTML, CSS, and JavaScript. The goal is to display the current time in real-time (hours, minutes, and seconds) with a modern and responsive visual layout.
 
 ## 📸 Preview
- 
+
 *![image](https://github.com/user-attachments/assets/16bf5826-64b7-483c-be9c-0bc49beaaa4c)*
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **HTML5** — estrutura do relógio
-- **CSS3** — estilização com gradiente e efeitos de sombra
-- **JavaScript** — lógica de atualização do horário em tempo real
+- **HTML5** — structure of the clock
+- **CSS3** — styling with gradient background and shadow effects
+- **JavaScript** — real-time logic for updating the clock
 
-## 💻 Como Funciona
+## 💻 How It Works
 
-- O JavaScript obtém a hora atual do sistema usando `Date()`.
-- A cada segundo (`setInterval`), ele atualiza os elementos `<span>` com os valores de horas, minutos e segundos.
-- O CSS aplica um design com fundo gradiente e caixas sombreadas para um visual mais atrativo.
+- JavaScript gets the current system time using `Date()`.
+- Every second (`setInterval`), it updates the `<span>` elements with the current hour, minute, and second.
+- CSS adds a gradient background and shadowed boxes for a more attractive design.
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
-1. Clone ou baixe este repositório:
+1. Clone or download this repository:
    ```bash
-   git clone https://github.com/seu-usuario/relogio-digital.git
+   git clone https://github.com/your-username/digital-clock.git
