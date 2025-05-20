@@ -4,7 +4,7 @@ Este é um projeto simples de **Relógio Digital** feito com HTML, CSS e JavaScr
 
 ## 📸 Preview
 
-![Relógio Digital Preview](preview.png)  
+![Relógio Digital Preview]  
 *![image](https://github.com/user-attachments/assets/16bf5826-64b7-483c-be9c-0bc49beaaa4c)*
 
 ## 🛠️ Tecnologias Utilizadas
