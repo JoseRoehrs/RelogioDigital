@@ -3,8 +3,7 @@
 Este é um projeto simples de **Relógio Digital** feito com HTML, CSS e JavaScript. O objetivo é exibir a hora atual em tempo real (horas, minutos e segundos) com um visual moderno e responsivo.
 
 ## 📸 Preview
-
-![Relógio Digital Preview]  
+ 
 *![image](https://github.com/user-attachments/assets/16bf5826-64b7-483c-be9c-0bc49beaaa4c)*
 
 ## 🛠️ Tecnologias Utilizadas
